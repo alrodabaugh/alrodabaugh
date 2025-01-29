@@ -34,7 +34,7 @@
 | improvisation, and both found and written text, with a primary focus on    |
 | framing. Pointing toward the performance of everyday interaction, mass     |
 | spectacle, illegible manipulation and modes of disorientation and control, |
-| these performances question good faith and reveal manifestations of power. |                                              |
+| these performances question good faith and reveal manifestations of power. |
 ╘════════════════════════════════════════════════════════════════════════════╛
                            ______
                           '-._   ```"""---.._
