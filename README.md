@@ -28,14 +28,14 @@
 
 <sup>*Photo by [Res](https://www.reslikeyes.com/)*</sup>
 ```
-╒═══════════════════════════════════════════════════════════════════════════════════╕
-| I create performances within the lineage of dance and choreography. My work       |
-| includes found performance, dance generated from numerical scores, improvisation, |
-| and both found and written text, with a primary focus on framing. Pointing toward |
-| the performance of everyday interaction, mass spectacle, illegible manipulation   |
-| and modes of disorientation and control, these performances question good faith   |
-| and reveal manifestations of power.                                               |
-╘═══════════════════════════════════════════════════════════════════════════════════╛
+╒════════════════════════════════════════════════════════════════════════════╕
+| I create performances within the lineage of dance and choreography. My     |
+| work includes found performance, dance generated from numerical scores,    |
+| improvisation, and both found and written text, with a primary focus on    |
+| framing. Pointing toward the performance of everyday interaction, mass     |
+| spectacle, illegible manipulation and modes of disorientation and control, |
+| these performances question good faith and reveal manifestations of power. |                                              |
+╘════════════════════════════════════════════════════════════════════════════╛
                            ______
                           '-._   ```"""---.._
                        ,-----.:___           `\  ,;;;,
@@ -49,7 +49,7 @@
                  ;                        __.-'    \     ,'
             jgs  \______,,.....------'''``          `---`
 
-                                  ╒══════════════════════╕
-                                  | [alexrodabaugh.work] |
-                                  ╘══════════════════════╛
+                            ╒══════════════════════╕
+                            | [alexrodabaugh.work] |
+                            ╘══════════════════════╛
 ```
